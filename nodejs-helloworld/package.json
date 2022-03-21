@@ -11,9 +11,7 @@
 }
 
 
-...
   "description": "Hello World!",
-    "main": "app.js",
-      "scripts": { "start": "node app.js" },
-        "author": "Red{nbsp}Hat Training",
-	...
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "author": "Red{nbsp}Hat Training",
